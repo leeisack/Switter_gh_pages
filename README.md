@@ -1,4 +1,4 @@
-# This page is a repo where I have committed my switcher and distributed it using ghpage.
+# This page is a repo where I have committed my switter(sack's twitter) and distributed it using ghpage.
 ##If you want to see the distributed site, go here. https://leeisack.github.io/Switter_gh_pages/#/
 ###You can log in, log out, add, edit, and delete user identification text and photos through the firebase server.
 ###Real-time profile editing, conversation possible
