@@ -19,10 +19,10 @@ const SocialAuth = () => {
   return (
     <>
       <div className="authBtns">
-        <button onClick={onSocialClick} name="github">
+        <button className="authBtn" onClick={onSocialClick} name="github">
           Continue with Github
         </button>
-        <button onClick={onSocialClick} name="google">
+        <button className="authBtn" onClick={onSocialClick} name="google">
           Continue with Google
         </button>
       </div>
