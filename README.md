@@ -2,11 +2,11 @@
 
 ## If you want to see the distributed site, go here. https://leeisack.github.io/Switter_gh_pages/#/
 
-### You can log in, log out, add, edit, and delete user identification text and photos through the firebase server.
+* You can log in, log out, add, edit, and delete user identification text and photos through the firebase server.
 
-### Real-time profile editing, conversation possible
+* Real-time profile editing, conversation possible
 
-### Equipped with security functions.
+* Equipped with security functions.
 
 
 
