@@ -6,8 +6,6 @@
 
 
 
-
-
 # about Github-Pages
 
 # Getting Started with Create React App
