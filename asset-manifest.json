@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Switter_gh_pages/static/css/main.efb71eab.chunk.css",
-    "main.js": "/Switter_gh_pages/static/js/main.75693212.chunk.js",
-    "main.js.map": "/Switter_gh_pages/static/js/main.75693212.chunk.js.map",
+    "main.css": "/Switter_gh_pages/static/css/main.9f8c27f6.chunk.css",
+    "main.js": "/Switter_gh_pages/static/js/main.0d590fce.chunk.js",
+    "main.js.map": "/Switter_gh_pages/static/js/main.0d590fce.chunk.js.map",
     "runtime-main.js": "/Switter_gh_pages/static/js/runtime-main.d3637634.js",
     "runtime-main.js.map": "/Switter_gh_pages/static/js/runtime-main.d3637634.js.map",
     "static/js/2.8dd7383e.chunk.js": "/Switter_gh_pages/static/js/2.8dd7383e.chunk.js",
     "static/js/2.8dd7383e.chunk.js.map": "/Switter_gh_pages/static/js/2.8dd7383e.chunk.js.map",
     "index.html": "/Switter_gh_pages/index.html",
-    "static/css/main.efb71eab.chunk.css.map": "/Switter_gh_pages/static/css/main.efb71eab.chunk.css.map",
+    "static/css/main.9f8c27f6.chunk.css.map": "/Switter_gh_pages/static/css/main.9f8c27f6.chunk.css.map",
     "static/js/2.8dd7383e.chunk.js.LICENSE.txt": "/Switter_gh_pages/static/js/2.8dd7383e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d3637634.js",
     "static/js/2.8dd7383e.chunk.js",
-    "static/css/main.efb71eab.chunk.css",
-    "static/js/main.75693212.chunk.js"
+    "static/css/main.9f8c27f6.chunk.css",
+    "static/js/main.0d590fce.chunk.js"
   ]
 }
